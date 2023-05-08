@@ -1,4 +1,4 @@
-## Hi there friends! My name is Abhilash, a budding software developer who's trying very hard and enhancing his skills. 👋
+## Hi there friends! My name is Abhilash, a budding software developer who's enhancing his skills everyday. 👋
 
 <!--
 **abhilash-kaim/abhilash-kaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
