@@ -18,5 +18,7 @@ Here are some ideas to get you started:-->
 <p align ="center">
   <img width =48% src="https://github-readme-stats.vercel.app/api?username=abhilash-kaim"/>
   <img width =37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-kaim&layout=compact"/>
+<!--   <img src="https://wakatime.com/share/@abhilashk/759faa5d-5f49-402e-9630-bf26a1f155f1.png" /></a> -->
+  <!--<img width =35% src="[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abhilashk"/>-->
   <!--<img width =37.5% src="https://github-readme-stats.vercel.app/api/wakatime?username=abhilashk"/>-->
   </p>
