@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on my **Python programming** skills
-- 🌱 I’m currently learning **Dsta Analysis using Python**
+- 🌱 I’m currently learning **Data Analysis using Python**
 - 🤔 I’m looking for some guidance with **Web Scrapping**
 - 📱 Connect with me on [linkedin](https://www.linkedin.com/in/abhilash-kaim-231bb21a0/)
 
