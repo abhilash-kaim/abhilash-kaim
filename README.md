@@ -5,15 +5,15 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my **ASP .net, C# programming** skills
-- 🌱 I’m currently learning **Web development**
-- 🤔 I’m looking for some guidance with **.net core framework**
+- 🔭 I’m currently working on my **Python programming** skills
+- 🌱 I’m currently learning **Dsta Analysis using Python**
+- 🤔 I’m looking for some guidance with **Web Scrapping**
 - 📱 Connect with me on [linkedin](https://www.linkedin.com/in/abhilash-kaim-231bb21a0/)
 
 ### My Target for next 30 days
 - [ ] improve logical skills
 - [ ] solve 100 programming problems (basic to intermediate level)
-- [ ] built a web music player in .Net Core Framework
+- [ ] built a Project 
 <p align ="center">
   <img width =48% src="https://github-readme-stats.vercel.app/api?username=abhilash-kaim"/>
   <img width =37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-kaim&layout=compact"/>
